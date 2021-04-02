@@ -7,7 +7,7 @@ import { useState, useLayoutEffect } from 'react'
 
 let IPinfo = require("node-ipinfo");
 
-const apikey = "ih6z3McGXj3mtMvmCxHD52DlbLcgtiJwiiYYG59vTho0Sv1V8Bc0UVYc97Cjr9g6";
+const apikey = "<your api key> ";
 const rocksetClient = rockset(apikey);
 
 
